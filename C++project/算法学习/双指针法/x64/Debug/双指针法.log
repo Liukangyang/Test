@@ -1,0 +1,5 @@
+﻿  Double_ptr.cpp
+H:\C++project\算法学习\双指针法\Double_ptr.cpp(96,45): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\C++project\算法学习\双指针法\Double_ptr.cpp(121,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+H:\C++project\算法学习\双指针法\Double_ptr.cpp(139,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  双指针法.vcxproj -> H:\C++project\算法学习\双指针法\x64\Debug\双指针法.exe

@@ -1,0 +1,8 @@
+﻿  CTcpServer.cpp
+H:\C++project\Socket套接字编程\Socket套接字编程\CTcpServer.cpp(28,31): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+H:\C++project\Socket套接字编程\Socket套接字编程\CTcpServer.cpp(26,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\C++project\Socket套接字编程\Socket套接字编程\CTcpServer.cpp(30,38): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+H:\C++project\Socket套接字编程\Socket套接字编程\CTcpServer.cpp(45,31): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+H:\C++project\Socket套接字编程\Socket套接字编程\CTcpServer.cpp(53,9): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+H:\C++project\Socket套接字编程\Socket套接字编程\CTcpServer.cpp(64,38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Socket套接字编程.vcxproj -> H:\C++project\Socket套接字编程\x64\Debug\Socket套接字编程.exe

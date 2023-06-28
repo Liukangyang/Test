@@ -1,0 +1,3 @@
+﻿  main.cpp
+H:\C++project\十字链表\十字链表\main.cpp(36,27): warning C4018: “<”: 有符号/无符号不匹配
+  十字链表.vcxproj -> H:\C++project\十字链表\Debug\十字链表.exe

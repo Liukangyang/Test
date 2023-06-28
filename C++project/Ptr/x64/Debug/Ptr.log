@@ -1,0 +1,4 @@
+﻿  ptr5.cpp
+H:\C++project\Ptr\ptr5.cpp(44,32): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+H:\C++project\Ptr\ptr5.cpp(45,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Ptr.vcxproj -> H:\C++project\Ptr\x64\Debug\Ptr.exe

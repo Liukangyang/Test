@@ -1,0 +1,3 @@
+﻿  mian3.cpp
+H:\C++project\函数提高\mian3.cpp(33,7): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+  函数提高.vcxproj -> H:\C++project\函数提高\x64\Debug\函数提高.exe

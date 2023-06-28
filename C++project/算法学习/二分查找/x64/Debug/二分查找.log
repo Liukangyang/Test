@@ -1,0 +1,8 @@
+﻿  二分查找.cpp
+H:\C++project\算法学习\二分查找\二分查找.cpp(36,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\C++project\算法学习\二分查找\二分查找.cpp(77): message : 查看对正在编译的函数 模板 实例化“T search2<int>(std::vector<int,std::allocator<int>> &,T)”的引用
+          with
+          [
+              T=int
+          ]
+  二分查找.vcxproj -> H:\C++project\算法学习\二分查找\x64\Debug\二分查找.exe

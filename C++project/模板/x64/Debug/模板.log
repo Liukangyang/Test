@@ -1,0 +1,7 @@
+﻿  函数模板.cpp
+H:\C++project\模板\函数模板.cpp(69,47): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+  模板.vcxproj -> H:\C++project\模板\x64\Debug\模板.exe

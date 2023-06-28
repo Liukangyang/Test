@@ -1,0 +1,6 @@
+﻿  main1.cpp
+H:\C++project\高级编程练习\预处理器\预处理器\预处理器\main1.cpp(30,1): warning C4005: “NULL”: 宏重定义
+D:\VS\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(233): message : 参见“NULL”的前一个定义
+H:\C++project\高级编程练习\预处理器\预处理器\预处理器\main1.cpp(33,1): warning C4005: “NULL”: 宏重定义
+H:\C++project\高级编程练习\预处理器\预处理器\预处理器\main1.cpp(30): message : 参见“NULL”的前一个定义
+  预处理器.vcxproj -> H:\C++project\高级编程练习\预处理器\预处理器\Debug\预处理器.exe

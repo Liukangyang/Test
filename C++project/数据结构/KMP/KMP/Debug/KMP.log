@@ -1,0 +1,4 @@
+﻿  mian.cpp
+H:\C++project\数据结构\KMP\KMP\mian.cpp(10,14): warning C4018: “<”: 有符号/无符号不匹配
+H:\C++project\数据结构\KMP\KMP\mian.cpp(30,23): warning C4018: “<”: 有符号/无符号不匹配
+  KMP.vcxproj -> H:\C++project\数据结构\KMP\Debug\KMP.exe
