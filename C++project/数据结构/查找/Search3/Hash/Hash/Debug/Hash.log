@@ -1,0 +1,4 @@
+﻿  Hash2.cpp
+H:\Code\C++project\数据结构\查找\Search3\Hash\Hash\Hash2.cpp(8,11): warning C4101: “cnt”: 未引用的局部变量
+H:\Code\C++project\数据结构\查找\Search3\Hash\Hash\Hash2.cpp(54,11): warning C4101: “cnt”: 未引用的局部变量
+  Hash.vcxproj -> H:\Code\C++project\数据结构\查找\Search3\Hash\Debug\Hash.exe

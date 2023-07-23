@@ -1,5 +1,6 @@
 #include <iostream>
 #include "Search1.h"
+#include "Ex1.h"
 using namespace std;
 #define MAXV 10
 
@@ -57,8 +58,30 @@ void test2()
 	else
 		cout << "表中无该元素！" << endl;
 }
+
+//实验测试
+void test3()
+{
+	RecType R[MAXV];
+	for (int i = 0; i < MAXV; i++)
+	{
+		R[i].key = i+1;
+		R[i].data = i + 65;
+	}
+	R[4].key=R[5].key = R[6].key = R[3].key;
+	for (int i = 0; i < MAXV; i++)
+	{
+		cout << "[" << R[i].key << "," << R[i].data << "]" << endl;
+	}
+	int key = 4;
+	BinSearch_Ex(R, MAXV,key);
+
+}
+
 int main()
 {
-	test2();
+	//test1();
+	//test2();
+	test3();
 	return 0;
 }

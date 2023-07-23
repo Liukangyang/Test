@@ -21,9 +21,15 @@
     <ClCompile Include="Search1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Ex.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Search1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex1.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

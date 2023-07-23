@@ -131,3 +131,6 @@ IdxType* IdxCons(RecType R[], int n, int b)
 	return p;
 }
 
+
+
+
